@@ -76,8 +76,12 @@ WSGI_APPLICATION = 'drf_tutorial.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'snippets_db',
+        'USER': 'snippets_admin',
+        'PASSWORD': 'Agl3136!!',
+        'HOST': 'localhost',
+        'PORT': '5432',
     }
 }
 
