@@ -8,8 +8,6 @@ El objetivo principal de este proyecto es:
   Practicar la creación de APIs RESTful de forma pragmática.
   Asentar bases sólidas para futuros proyectos profesionales con Django + DRF + PostgreSQL.
 
-Cada sección del proyecto corresponde a una etapa del aprendizaje y estará debidamente comentada para facilitar la comprensión futura.
-
 ---
 
 ## 🚀 Tecnologías principales
