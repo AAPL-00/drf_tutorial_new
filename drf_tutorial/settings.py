@@ -77,7 +77,7 @@ WSGI_APPLICATION = 'drf_tutorial.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'snippets_db',
+        'NAME': 'snippets_database',
         'USER': 'snippets_admin',
         'PASSWORD': 'Agl3136!!',
         'HOST': 'localhost',
